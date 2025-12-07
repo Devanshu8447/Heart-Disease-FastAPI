@@ -1,4 +1,4 @@
-# Heart Disease Prediction API ❤️🏥
+# Heart Disease Prediction API
 
 A production-ready FastAPI for predicting heart disease risk using machine learning. This application provides real-time heart disease predictions through a RESTful interface, complete with patient data management and an interactive frontend for easy testing and visualization.
 
